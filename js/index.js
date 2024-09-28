@@ -90,9 +90,53 @@
 
 // 8 - masala;
 
-let son = prompt("Sonni kiriting...");
-if ((son = 5)) {
-  console.log("Besh xonaliy");
-} else {
-  console.log("Besh xonali emas");
-}
+// let son = prompt("Sonni kiriting...");
+// if ((son = 5)) {
+//   console.log("Besh xonaliy");
+// } else {
+//   console.log("Besh xonali emas");
+// }
+
+// 9 - masala;
+
+// let monthNumber = +prompt("Oy raqamini kiriting...");
+
+// let res = "";
+// if (monthNumber == 1) {
+//   res = "Qish";
+// } else if (monthNumber == 2) {
+//   res = "Qish";
+// } else if (monthNumber == 3) {
+//   res = "Bahor";
+// } else if (monthNumber == 4) {
+//   res = "Bahor";
+// } else if (monthNumber == 5) {
+//   res = "Bahor";
+// } else if (monthNumber == 6) {
+//   res = "Yoz";
+// } else if (monthNumber == 7) {
+//   res = "Yoz";
+// } else if (monthNumber == 8) {
+//   res = "Yoz";
+// } else if (monthNumber == 9) {
+//   res = "Kuz";
+// } else if (monthNumber == 10) {
+//   res = "Kuz";
+// } else if (monthNumber == 11) {
+//   res = "Kuz";
+// } else if (monthNumber == 12) {
+//   res = "Qish";
+// } else {
+//   res = "Bunday oy mavjud emas";
+// }
+// console.log(res);
+
+// 10 - masala;
+
+// let haftaKun = prompt("Kunni kiriting (1-7)");
+
+// if (haftaKun >= 1 && haftaKun <= 5) {
+//   console.log("Ishchi kun");
+// } else if (haftaKun <= 6 || haftaKun <= 7) {
+//   console.log("Dam olish kuni");
+// }
