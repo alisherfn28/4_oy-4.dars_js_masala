@@ -140,3 +140,53 @@
 // } else if (haftaKun <= 6 || haftaKun <= 7) {
 //   console.log("Dam olish kuni");
 // }
+
+// 11 - masala;
+
+// let yosh = +prompt("Yilingizni  kiriting...");
+
+// if (yosh >= 2005) {
+//   console.log("yosh bola");
+// } else if (yosh <= 2005) {
+//   console.log("Katta odam");
+// }
+
+// 12 - masala;
+
+// let soat = +prompt("Soatni kiriting (0-24)");
+
+// if (soat >= 8 && soat <= 18) {
+//   console.log("Ish vaqti");
+// } else {
+//   console.log("Tanaffus");
+// }
+
+//13 - masala;
+
+// let num = +prompt("Sonni kiriting...");
+
+// if (num) {
+//   console.log("Raqam");
+// } else {
+//   console.log("Bu raqam emas");
+// }
+
+// 14 - masala;
+
+// let num = +prompt("Sonni kiriting...");
+
+// if (num >= 100) {
+//   console.log("Katta son");
+// } else {
+//   console.log("Kichik son");
+// }
+
+// 15 - masala;
+
+// let yosh = +prompt("Yoshingizni kiriting...");
+
+// if (yosh <= 18) {
+//   console.log("Tekin kirish");
+// } else {
+//   console.log("Pul tolash kerak");
+// }
